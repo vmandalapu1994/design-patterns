@@ -1,4 +1,4 @@
-package com.design_pattern.cor.implementation1;
+package com.design_pattern.chainofresponsibility.implementation1;
 
 public class ReimbursementRequest {
 

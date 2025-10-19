@@ -1,4 +1,4 @@
-package com.design_pattern.cor.implementation2;
+package com.design_pattern.chainofresponsibility.implementation2;
 
 public class LogClient {
 
